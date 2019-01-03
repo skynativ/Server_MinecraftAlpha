@@ -1,0 +1,21 @@
+lastAccountName: SkyNativ
+timestamps:
+  login: 1540891493978
+  logout: 1540891538040
+  lastteleport: 1540834815038
+ipAddress: 192.168.20.151
+money: '-100.0'
+logoutlocation:
+  world: world
+  x: 8.5
+  y: 65.0
+  z: 256.5
+  yaw: -160.19998
+  pitch: 63.6
+lastlocation:
+  world: world
+  x: 11.5
+  y: 78.0
+  z: 262.5
+  yaw: 5.123933
+  pitch: 0.0

@@ -1,0 +1,21 @@
+lastAccountName: PurpleHaze
+timestamps:
+  login: 1540840943961
+  lastteleport: 1540841423220
+  logout: 1540842816415
+ipAddress: 80.214.155.25
+lastlocation:
+  world: world
+  x: 8.318843024115036
+  y: 65.0
+  z: 256.69999998807907
+  yaw: -109.04997
+  pitch: -76.94999
+afk: false
+logoutlocation:
+  world: world
+  x: -102.23014857739287
+  y: 91.99285505978901
+  z: 39.46990353302667
+  yaw: 109.350586
+  pitch: 21.90004

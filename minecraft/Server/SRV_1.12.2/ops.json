@@ -1,0 +1,26 @@
+[
+  {
+    "uuid": "ea35ab77-16c5-3a74-bfc9-9b5357ae2e85",
+    "name": "Hikusame",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "36881d51-7477-3eb6-91a1-dfc11065590d",
+    "name": "admin",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "e504debe-f741-3d67-8be9-bab2a5c4ea1c",
+    "name": "PurpleHaze",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "3b121025-642c-311d-b059-1c883bf7d3bc",
+    "name": "skynativ",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

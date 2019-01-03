@@ -1,0 +1,421 @@
+29/10/2018 05:58:06 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.onEnable] - INFO - Loading ...
+29/10/2018 05:58:06 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.onEnable] - INFO - Registering route ...
+29/10/2018 05:58:06 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.onEnable] - INFO - Injecting http server ...
+29/10/2018 05:58:06 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.onEnable] - INFO - Registering methods ...
+29/10/2018 05:58:06 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.onEnable] - INFO - Starting CommandScheduler ...
+29/10/2018 05:58:06 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.onEnable] - INFO - Ready !
+29/10/2018 05:59:01 - [fr.vmarchaud.mineweb.common.RequestHandler.handleHandshake] - INFO - New Handshake id: 89ea1da3 (mFr9YDU846EDsXLp, http://5.51.139.207:9898/MineWebCMS-master/)
+29/10/2018 05:59:01 - [fr.vmarchaud.mineweb.common.RequestHandler.handleHandshake] - INFO - Handshake request 89ea1da3 has been successfully valided (secret: mFr9YDU846EDsXLp)
+29/10/2018 05:59:01 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /handshake
+29/10/2018 05:59:22 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 1987695401 : [{"name":"GET_PLAYER_COUNT","args":[]},{"name":"GET_MAX_PLAYERS","args":[]}]
+29/10/2018 05:59:22 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 1987695401 : [{"name":"GET_PLAYER_COUNT","response":0},{"name":"GET_MAX_PLAYERS","response":20}]
+29/10/2018 05:59:22 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:04:55 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 1844778380 : [{"name":"GET_PLAYER_COUNT","args":[]},{"name":"GET_MAX_PLAYERS","args":[]}]
+29/10/2018 06:04:55 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 1844778380 : [{"name":"GET_PLAYER_COUNT","response":0},{"name":"GET_MAX_PLAYERS","response":20}]
+29/10/2018 06:04:55 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:05:14 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 1926047946 : []
+29/10/2018 06:05:14 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 1926047946 : []
+29/10/2018 06:05:14 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:05:14 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 1009459398 : [{"name":"IS_CONNECTED","args":["admin"]}]
+29/10/2018 06:05:14 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 1009459398 : [{"name":"IS_CONNECTED","response":false}]
+29/10/2018 06:05:14 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:06:15 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 816861117 : []
+29/10/2018 06:06:15 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 816861117 : []
+29/10/2018 06:06:15 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:06:15 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 1431900167 : [{"name":"GET_PLAYER_COUNT","args":[]},{"name":"GET_MAX_PLAYERS","args":[]}]
+29/10/2018 06:06:15 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 1431900167 : [{"name":"GET_PLAYER_COUNT","response":0},{"name":"GET_MAX_PLAYERS","response":20}]
+29/10/2018 06:06:15 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:06:19 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 1579890786 : [{"name":"GET_PLAYER_COUNT","args":[]},{"name":"GET_MAX_PLAYERS","args":[]}]
+29/10/2018 06:06:19 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 1579890786 : [{"name":"GET_PLAYER_COUNT","response":0},{"name":"GET_MAX_PLAYERS","response":20}]
+29/10/2018 06:06:19 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:06:43 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 804051291 : []
+29/10/2018 06:06:43 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 804051291 : []
+29/10/2018 06:06:43 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:06:43 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 782027674 : [{"name":"IS_CONNECTED","args":["admin"]}]
+29/10/2018 06:06:43 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 782027674 : [{"name":"IS_CONNECTED","response":true}]
+29/10/2018 06:06:43 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:06:43 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 113608394 : [{"name":"RUN_COMMAND","args":["give admin 1 1"]}]
+29/10/2018 06:06:43 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 113608394 : [{"name":"RUN_COMMAND","response":true}]
+29/10/2018 06:06:43 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:08:30 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 560531876 : []
+29/10/2018 06:08:30 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 560531876 : []
+29/10/2018 06:08:30 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:08:30 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 1763264475 : [{"name":"IS_CONNECTED","args":["admin"]}]
+29/10/2018 06:08:30 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 1763264475 : [{"name":"IS_CONNECTED","response":true}]
+29/10/2018 06:08:30 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:08:30 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 355112226 : [{"name":"RUN_COMMAND","args":["give admin 1 1"]}]
+29/10/2018 06:08:30 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 355112226 : [{"name":"RUN_COMMAND","response":true}]
+29/10/2018 06:08:30 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:13:20 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 608587548 : [{"name":"GET_PLAYER_COUNT","args":[]},{"name":"GET_MAX_PLAYERS","args":[]}]
+29/10/2018 06:13:20 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 608587548 : [{"name":"GET_PLAYER_COUNT","response":1},{"name":"GET_MAX_PLAYERS","response":20}]
+29/10/2018 06:13:20 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:13:30 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 2047191665 : []
+29/10/2018 06:13:30 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 2047191665 : []
+29/10/2018 06:13:30 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:13:31 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 207218938 : [{"name":"RUN_COMMAND","args":["give admin 86 150"]},{"name":"RUN_COMMAND","args":["say admin CITROUILLLLEEE !!!!!!!!!!!"]}]
+29/10/2018 06:13:31 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 207218938 : [{"name":"RUN_COMMAND","response":true},{"name":"RUN_COMMAND","response":true}]
+29/10/2018 06:13:31 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:14:02 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 246921094 : []
+29/10/2018 06:14:02 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 246921094 : []
+29/10/2018 06:14:02 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:14:02 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 1787788473 : [{"name":"GET_PLAYER_COUNT","args":[]},{"name":"GET_MAX_PLAYERS","args":[]}]
+29/10/2018 06:14:02 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 1787788473 : [{"name":"GET_PLAYER_COUNT","response":1},{"name":"GET_MAX_PLAYERS","response":20}]
+29/10/2018 06:14:02 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:15:43 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 1393731392 : [{"name":"GET_PLAYER_COUNT","args":[]},{"name":"GET_MAX_PLAYERS","args":[]}]
+29/10/2018 06:15:43 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 1393731392 : [{"name":"GET_PLAYER_COUNT","response":1},{"name":"GET_MAX_PLAYERS","response":20}]
+29/10/2018 06:15:43 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:18:15 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 2001302670 : [{"name":"GET_PLAYER_COUNT","args":[]},{"name":"GET_MAX_PLAYERS","args":[]}]
+29/10/2018 06:18:15 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 2001302670 : [{"name":"GET_PLAYER_COUNT","response":1},{"name":"GET_MAX_PLAYERS","response":20}]
+29/10/2018 06:18:15 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:18:41 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 2115750874 : []
+29/10/2018 06:18:41 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 2115750874 : []
+29/10/2018 06:18:41 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:18:41 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 376069585 : [{"name":"RUN_COMMAND","args":["give admin 86 150"]},{"name":"RUN_COMMAND","args":["say admin CITROUILLLLEEE !!!!!!!!!!!"]}]
+29/10/2018 06:18:41 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 376069585 : [{"name":"RUN_COMMAND","response":true},{"name":"RUN_COMMAND","response":true}]
+29/10/2018 06:18:41 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:18:43 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 1472323285 : []
+29/10/2018 06:18:43 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 1472323285 : []
+29/10/2018 06:18:43 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:18:43 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 395195266 : [{"name":"RUN_COMMAND","args":["give admin 86 150"]},{"name":"RUN_COMMAND","args":["say admin CITROUILLLLEEE !!!!!!!!!!!"]}]
+29/10/2018 06:18:43 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 395195266 : [{"name":"RUN_COMMAND","response":true},{"name":"RUN_COMMAND","response":true}]
+29/10/2018 06:18:43 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:18:46 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 2143869988 : []
+29/10/2018 06:18:46 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 2143869988 : []
+29/10/2018 06:18:46 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:18:46 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 257293292 : [{"name":"RUN_COMMAND","args":["give admin 86 150"]},{"name":"RUN_COMMAND","args":["say admin CITROUILLLLEEE !!!!!!!!!!!"]}]
+29/10/2018 06:18:46 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 257293292 : [{"name":"RUN_COMMAND","response":true},{"name":"RUN_COMMAND","response":true}]
+29/10/2018 06:18:46 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:18:57 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 347133489 : []
+29/10/2018 06:18:57 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 347133489 : []
+29/10/2018 06:18:57 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:18:57 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 2026799738 : [{"name":"IS_CONNECTED","args":["admin"]}]
+29/10/2018 06:18:57 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 2026799738 : [{"name":"IS_CONNECTED","response":true}]
+29/10/2018 06:18:57 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:18:57 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 683635495 : [{"name":"RUN_COMMAND","args":["give admin 1 1"]}]
+29/10/2018 06:18:57 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 683635495 : [{"name":"RUN_COMMAND","response":true}]
+29/10/2018 06:18:57 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:18:59 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 1269891677 : []
+29/10/2018 06:18:59 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 1269891677 : []
+29/10/2018 06:18:59 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:18:59 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 1183468160 : [{"name":"IS_CONNECTED","args":["admin"]}]
+29/10/2018 06:18:59 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 1183468160 : [{"name":"IS_CONNECTED","response":true}]
+29/10/2018 06:18:59 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:18:59 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 931471105 : [{"name":"RUN_COMMAND","args":["give admin 1 1"]}]
+29/10/2018 06:18:59 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 931471105 : [{"name":"RUN_COMMAND","response":true}]
+29/10/2018 06:18:59 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:19:00 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 1443276442 : []
+29/10/2018 06:19:00 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 1443276442 : []
+29/10/2018 06:19:00 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:19:00 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 1586890791 : [{"name":"IS_CONNECTED","args":["admin"]}]
+29/10/2018 06:19:00 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 1586890791 : [{"name":"IS_CONNECTED","response":true}]
+29/10/2018 06:19:01 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:19:01 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 1745144080 : [{"name":"RUN_COMMAND","args":["give admin 1 1"]}]
+29/10/2018 06:19:01 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 1745144080 : [{"name":"RUN_COMMAND","response":true}]
+29/10/2018 06:19:01 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:19:02 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 1691645172 : []
+29/10/2018 06:19:02 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 1691645172 : []
+29/10/2018 06:19:02 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:19:02 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 1266546735 : [{"name":"IS_CONNECTED","args":["admin"]}]
+29/10/2018 06:19:02 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 1266546735 : [{"name":"IS_CONNECTED","response":true}]
+29/10/2018 06:19:02 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:19:02 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 65402540 : [{"name":"RUN_COMMAND","args":["give admin 1 1"]}]
+29/10/2018 06:19:02 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 65402540 : [{"name":"RUN_COMMAND","response":true}]
+29/10/2018 06:19:02 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:20:20 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 530265778 : [{"name":"GET_PLAYER_COUNT","args":[]},{"name":"GET_MAX_PLAYERS","args":[]}]
+29/10/2018 06:20:20 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 530265778 : [{"name":"GET_PLAYER_COUNT","response":1},{"name":"GET_MAX_PLAYERS","response":20}]
+29/10/2018 06:20:20 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:21:39 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 655765105 : [{"name":"GET_PLAYER_COUNT","args":[]},{"name":"GET_MAX_PLAYERS","args":[]}]
+29/10/2018 06:21:39 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 655765105 : [{"name":"GET_PLAYER_COUNT","response":1},{"name":"GET_MAX_PLAYERS","response":20}]
+29/10/2018 06:21:39 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:21:47 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 2020961995 : []
+29/10/2018 06:21:47 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 2020961995 : []
+29/10/2018 06:21:47 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:21:47 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 1514206210 : [{"name":"RUN_COMMAND","args":["give admin 86 150"]},{"name":"RUN_COMMAND","args":["say admin CITROUILLLLEEE !!!!!!!!!!!"]}]
+29/10/2018 06:21:47 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 1514206210 : [{"name":"RUN_COMMAND","response":true},{"name":"RUN_COMMAND","response":true}]
+29/10/2018 06:21:47 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:21:48 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 1157684663 : []
+29/10/2018 06:21:48 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 1157684663 : []
+29/10/2018 06:21:48 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:21:49 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 1291300137 : [{"name":"RUN_COMMAND","args":["give admin 86 150"]},{"name":"RUN_COMMAND","args":["say admin CITROUILLLLEEE !!!!!!!!!!!"]}]
+29/10/2018 06:21:49 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 1291300137 : [{"name":"RUN_COMMAND","response":true},{"name":"RUN_COMMAND","response":true}]
+29/10/2018 06:21:49 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:21:49 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 1759918273 : []
+29/10/2018 06:21:50 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 1759918273 : []
+29/10/2018 06:21:50 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:21:50 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 633267030 : [{"name":"RUN_COMMAND","args":["give admin 86 150"]},{"name":"RUN_COMMAND","args":["say admin CITROUILLLLEEE !!!!!!!!!!!"]}]
+29/10/2018 06:21:50 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 633267030 : [{"name":"RUN_COMMAND","response":true},{"name":"RUN_COMMAND","response":true}]
+29/10/2018 06:21:50 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:22:44 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 88617006 : []
+29/10/2018 06:22:44 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 88617006 : []
+29/10/2018 06:22:44 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:22:45 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 286976687 : [{"name":"RUN_COMMAND","args":["give admin 86 150"]},{"name":"RUN_COMMAND","args":["say admin CITROUILLLLEEE !!!!!!!!!!!"]}]
+29/10/2018 06:22:45 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 286976687 : [{"name":"RUN_COMMAND","response":true},{"name":"RUN_COMMAND","response":true}]
+29/10/2018 06:22:45 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:25:47 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 748064800 : [{"name":"GET_PLAYER_COUNT","args":[]},{"name":"GET_MAX_PLAYERS","args":[]}]
+29/10/2018 06:25:47 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 748064800 : [{"name":"GET_PLAYER_COUNT","response":1},{"name":"GET_MAX_PLAYERS","response":20}]
+29/10/2018 06:25:47 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:25:53 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 367925273 : []
+29/10/2018 06:25:53 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 367925273 : []
+29/10/2018 06:25:53 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:25:53 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 823753344 : [{"name":"RUN_COMMAND","args":["give admin 86 150 "]},{"name":"RUN_COMMAND","args":["broadcast  admin buy 6trouile"]},{"name":"RUN_COMMAND","args":["say admin CITROUILLLLEEE !!!!!!!!!!!"]},{"name":"RUN_COMMAND","args":["gamemode admin 1"]}]
+29/10/2018 06:25:53 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 823753344 : [{"name":"RUN_COMMAND","response":true},{"name":"RUN_COMMAND","response":true},{"name":"RUN_COMMAND","response":true},{"name":"RUN_COMMAND","response":true}]
+29/10/2018 06:25:53 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:27:38 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 478198076 : [{"name":"GET_PLAYER_COUNT","args":[]},{"name":"GET_MAX_PLAYERS","args":[]}]
+29/10/2018 06:27:38 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 478198076 : [{"name":"GET_PLAYER_COUNT","response":2},{"name":"GET_MAX_PLAYERS","response":20}]
+29/10/2018 06:27:38 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:28:23 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 964350444 : []
+29/10/2018 06:28:23 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 964350444 : []
+29/10/2018 06:28:23 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:28:23 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 200184920 : [{"name":"RUN_COMMAND","args":["give admin 86 150 "]},{"name":"RUN_COMMAND","args":["broadcast  admin buy 6trouile"]},{"name":"RUN_COMMAND","args":["say admin CITROUILLLLEEE !!!!!!!!!!!"]},{"name":"RUN_COMMAND","args":["gamemode creative admin"]}]
+29/10/2018 06:28:23 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 200184920 : [{"name":"RUN_COMMAND","response":true},{"name":"RUN_COMMAND","response":true},{"name":"RUN_COMMAND","response":true},{"name":"RUN_COMMAND","response":true}]
+29/10/2018 06:28:23 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:28:39 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 1579515536 : [{"name":"GET_PLAYER_COUNT","args":[]},{"name":"GET_MAX_PLAYERS","args":[]}]
+29/10/2018 06:28:39 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 1579515536 : [{"name":"GET_PLAYER_COUNT","response":2},{"name":"GET_MAX_PLAYERS","response":20}]
+29/10/2018 06:28:39 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:28:48 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 1064047761 : []
+29/10/2018 06:28:48 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 1064047761 : []
+29/10/2018 06:28:48 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:28:48 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 1090987896 : [{"name":"GET_PLAYER_COUNT","args":[]},{"name":"GET_MAX_PLAYERS","args":[]}]
+29/10/2018 06:28:48 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 1090987896 : [{"name":"GET_PLAYER_COUNT","response":2},{"name":"GET_MAX_PLAYERS","response":20}]
+29/10/2018 06:28:48 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:30:24 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 672718245 : []
+29/10/2018 06:30:24 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 672718245 : []
+29/10/2018 06:30:24 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:30:25 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 244505639 : [{"name":"RUN_COMMAND","args":["give admin 86 150 "]},{"name":"RUN_COMMAND","args":["broadcast  admin buy 6trouile"]},{"name":"RUN_COMMAND","args":["say admin CITROUILLLLEEE !!!!!!!!!!!"]},{"name":"RUN_COMMAND","args":["gamemode creative admin"]}]
+29/10/2018 06:30:25 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 244505639 : [{"name":"RUN_COMMAND","response":true},{"name":"RUN_COMMAND","response":true},{"name":"RUN_COMMAND","response":true},{"name":"RUN_COMMAND","response":true}]
+29/10/2018 06:30:25 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:30:29 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 1750147594 : []
+29/10/2018 06:30:29 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 1750147594 : []
+29/10/2018 06:30:29 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:30:29 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 1021855996 : [{"name":"IS_CONNECTED","args":["admin"]}]
+29/10/2018 06:30:29 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 1021855996 : [{"name":"IS_CONNECTED","response":true}]
+29/10/2018 06:30:29 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:30:29 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 834830980 : [{"name":"RUN_COMMAND","args":["give admin 1 1"]}]
+29/10/2018 06:30:29 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 834830980 : [{"name":"RUN_COMMAND","response":true}]
+29/10/2018 06:30:29 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:30:45 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 1366491093 : [{"name":"GET_PLAYER_COUNT","args":[]},{"name":"GET_MAX_PLAYERS","args":[]}]
+29/10/2018 06:30:45 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 1366491093 : [{"name":"GET_PLAYER_COUNT","response":2},{"name":"GET_MAX_PLAYERS","response":20}]
+29/10/2018 06:30:45 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:31:21 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 2079736225 : []
+29/10/2018 06:31:21 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 2079736225 : []
+29/10/2018 06:31:21 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:31:21 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 323240902 : [{"name":"RUN_COMMAND","args":["give Test 86 150 "]},{"name":"RUN_COMMAND","args":["broadcast  Test buy 6trouile"]},{"name":"RUN_COMMAND","args":["say Test CITROUILLLLEEE !!!!!!!!!!!"]},{"name":"RUN_COMMAND","args":["gamemode creative Test"]}]
+29/10/2018 06:31:21 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 323240902 : [{"name":"RUN_COMMAND","response":true},{"name":"RUN_COMMAND","response":true},{"name":"RUN_COMMAND","response":true},{"name":"RUN_COMMAND","response":true}]
+29/10/2018 06:31:21 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:31:26 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 541332560 : []
+29/10/2018 06:31:26 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 541332560 : []
+29/10/2018 06:31:26 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:31:26 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 411251906 : [{"name":"RUN_COMMAND","args":["give Test 86 150 "]},{"name":"RUN_COMMAND","args":["broadcast  Test buy 6trouile"]},{"name":"RUN_COMMAND","args":["say Test CITROUILLLLEEE !!!!!!!!!!!"]},{"name":"RUN_COMMAND","args":["gamemode creative Test"]}]
+29/10/2018 06:31:26 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 411251906 : [{"name":"RUN_COMMAND","response":true},{"name":"RUN_COMMAND","response":true},{"name":"RUN_COMMAND","response":true},{"name":"RUN_COMMAND","response":true}]
+29/10/2018 06:31:26 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:31:27 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 1527863358 : []
+29/10/2018 06:31:27 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 1527863358 : []
+29/10/2018 06:31:27 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:31:27 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 1280785146 : [{"name":"RUN_COMMAND","args":["give Test 86 150 "]},{"name":"RUN_COMMAND","args":["broadcast  Test buy 6trouile"]},{"name":"RUN_COMMAND","args":["say Test CITROUILLLLEEE !!!!!!!!!!!"]},{"name":"RUN_COMMAND","args":["gamemode creative Test"]}]
+29/10/2018 06:31:27 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 1280785146 : [{"name":"RUN_COMMAND","response":true},{"name":"RUN_COMMAND","response":true},{"name":"RUN_COMMAND","response":true},{"name":"RUN_COMMAND","response":true}]
+29/10/2018 06:31:27 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:31:28 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 1678510070 : []
+29/10/2018 06:31:28 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 1678510070 : []
+29/10/2018 06:31:28 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:31:28 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 102094797 : [{"name":"RUN_COMMAND","args":["give Test 86 150 "]},{"name":"RUN_COMMAND","args":["broadcast  Test buy 6trouile"]},{"name":"RUN_COMMAND","args":["say Test CITROUILLLLEEE !!!!!!!!!!!"]},{"name":"RUN_COMMAND","args":["gamemode creative Test"]}]
+29/10/2018 06:31:28 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 102094797 : [{"name":"RUN_COMMAND","response":true},{"name":"RUN_COMMAND","response":true},{"name":"RUN_COMMAND","response":true},{"name":"RUN_COMMAND","response":true}]
+29/10/2018 06:31:28 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:31:29 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 1306426024 : []
+29/10/2018 06:31:29 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 1306426024 : []
+29/10/2018 06:31:29 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:31:29 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 284010475 : [{"name":"RUN_COMMAND","args":["give Test 86 150 "]},{"name":"RUN_COMMAND","args":["broadcast  Test buy 6trouile"]},{"name":"RUN_COMMAND","args":["say Test CITROUILLLLEEE !!!!!!!!!!!"]},{"name":"RUN_COMMAND","args":["gamemode creative Test"]}]
+29/10/2018 06:31:29 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 284010475 : [{"name":"RUN_COMMAND","response":true},{"name":"RUN_COMMAND","response":true},{"name":"RUN_COMMAND","response":true},{"name":"RUN_COMMAND","response":true}]
+29/10/2018 06:31:29 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:31:30 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 105308151 : []
+29/10/2018 06:31:30 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 105308151 : []
+29/10/2018 06:31:30 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:31:30 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 1272651298 : [{"name":"RUN_COMMAND","args":["give Test 86 150 "]},{"name":"RUN_COMMAND","args":["broadcast  Test buy 6trouile"]},{"name":"RUN_COMMAND","args":["say Test CITROUILLLLEEE !!!!!!!!!!!"]},{"name":"RUN_COMMAND","args":["gamemode creative Test"]}]
+29/10/2018 06:31:30 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 1272651298 : [{"name":"RUN_COMMAND","response":true},{"name":"RUN_COMMAND","response":true},{"name":"RUN_COMMAND","response":true},{"name":"RUN_COMMAND","response":true}]
+29/10/2018 06:31:30 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:31:31 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 1632401187 : []
+29/10/2018 06:31:31 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 1632401187 : []
+29/10/2018 06:31:31 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:31:31 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 1943822700 : [{"name":"RUN_COMMAND","args":["give Test 86 150 "]},{"name":"RUN_COMMAND","args":["broadcast  Test buy 6trouile"]},{"name":"RUN_COMMAND","args":["say Test CITROUILLLLEEE !!!!!!!!!!!"]},{"name":"RUN_COMMAND","args":["gamemode creative Test"]}]
+29/10/2018 06:31:31 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 1943822700 : [{"name":"RUN_COMMAND","response":true},{"name":"RUN_COMMAND","response":true},{"name":"RUN_COMMAND","response":true},{"name":"RUN_COMMAND","response":true}]
+29/10/2018 06:31:31 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:31:32 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 194354490 : []
+29/10/2018 06:31:32 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 194354490 : []
+29/10/2018 06:31:32 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:31:32 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 1388741562 : [{"name":"RUN_COMMAND","args":["give Test 86 150 "]},{"name":"RUN_COMMAND","args":["broadcast  Test buy 6trouile"]},{"name":"RUN_COMMAND","args":["say Test CITROUILLLLEEE !!!!!!!!!!!"]},{"name":"RUN_COMMAND","args":["gamemode creative Test"]}]
+29/10/2018 06:31:32 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 1388741562 : [{"name":"RUN_COMMAND","response":true},{"name":"RUN_COMMAND","response":true},{"name":"RUN_COMMAND","response":true},{"name":"RUN_COMMAND","response":true}]
+29/10/2018 06:31:32 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:31:35 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 394544124 : []
+29/10/2018 06:31:35 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 394544124 : []
+29/10/2018 06:31:35 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:31:35 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 114883447 : [{"name":"IS_CONNECTED","args":["Test"]}]
+29/10/2018 06:31:35 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 114883447 : [{"name":"IS_CONNECTED","response":false}]
+29/10/2018 06:31:35 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:31:41 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 1796513213 : []
+29/10/2018 06:31:41 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 1796513213 : []
+29/10/2018 06:31:41 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:31:41 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 475278365 : [{"name":"IS_CONNECTED","args":["Test"]}]
+29/10/2018 06:31:41 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 475278365 : [{"name":"IS_CONNECTED","response":false}]
+29/10/2018 06:31:41 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:31:49 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 1324465196 : [{"name":"GET_PLAYER_COUNT","args":[]},{"name":"GET_MAX_PLAYERS","args":[]}]
+29/10/2018 06:31:49 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 1324465196 : [{"name":"GET_PLAYER_COUNT","response":2},{"name":"GET_MAX_PLAYERS","response":20}]
+29/10/2018 06:31:49 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:32:51 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 209160821 : [{"name":"GET_PLAYER_COUNT","args":[]},{"name":"GET_MAX_PLAYERS","args":[]}]
+29/10/2018 06:32:51 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 209160821 : [{"name":"GET_PLAYER_COUNT","response":2},{"name":"GET_MAX_PLAYERS","response":20}]
+29/10/2018 06:32:51 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:33:07 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 1979317032 : []
+29/10/2018 06:33:07 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 1979317032 : []
+29/10/2018 06:33:07 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:33:07 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 582182295 : [{"name":"GET_PLAYER_COUNT","args":[]},{"name":"GET_MAX_PLAYERS","args":[]}]
+29/10/2018 06:33:07 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 582182295 : [{"name":"GET_PLAYER_COUNT","response":2},{"name":"GET_MAX_PLAYERS","response":20}]
+29/10/2018 06:33:07 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:33:50 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 739437465 : []
+29/10/2018 06:33:50 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 739437465 : []
+29/10/2018 06:33:50 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:33:50 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 718725915 : [{"name":"IS_CONNECTED","args":["Hikusame"]}]
+29/10/2018 06:33:50 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 718725915 : [{"name":"IS_CONNECTED","response":true}]
+29/10/2018 06:33:50 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:33:50 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 1582783120 : [{"name":"RUN_COMMAND","args":["give Hikusame 1 1"]}]
+29/10/2018 06:33:50 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 1582783120 : [{"name":"RUN_COMMAND","response":true}]
+29/10/2018 06:33:50 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:33:59 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 1517658800 : []
+29/10/2018 06:33:59 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 1517658800 : []
+29/10/2018 06:33:59 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:33:59 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 265123377 : [{"name":"IS_CONNECTED","args":["Hikusame"]}]
+29/10/2018 06:33:59 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 265123377 : [{"name":"IS_CONNECTED","response":true}]
+29/10/2018 06:33:59 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:33:59 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 514193017 : [{"name":"RUN_COMMAND","args":["give Hikusame 1 1"]}]
+29/10/2018 06:33:59 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 514193017 : [{"name":"RUN_COMMAND","response":true}]
+29/10/2018 06:33:59 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:34:02 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 1088767290 : []
+29/10/2018 06:34:02 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 1088767290 : []
+29/10/2018 06:34:02 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:34:02 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 1886051217 : [{"name":"IS_CONNECTED","args":["Hikusame"]}]
+29/10/2018 06:34:02 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 1886051217 : [{"name":"IS_CONNECTED","response":true}]
+29/10/2018 06:34:02 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:34:02 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 421377651 : [{"name":"RUN_COMMAND","args":["give Hikusame 1 1"]}]
+29/10/2018 06:34:02 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 421377651 : [{"name":"RUN_COMMAND","response":true}]
+29/10/2018 06:34:02 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:34:05 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 1226641164 : []
+29/10/2018 06:34:05 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 1226641164 : []
+29/10/2018 06:34:05 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:34:05 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 1470761063 : [{"name":"IS_CONNECTED","args":["Hikusame"]}]
+29/10/2018 06:34:05 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 1470761063 : [{"name":"IS_CONNECTED","response":true}]
+29/10/2018 06:34:05 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:34:05 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 37018435 : [{"name":"RUN_COMMAND","args":["give Hikusame 86 150 "]},{"name":"RUN_COMMAND","args":["broadcast  Hikusame buy 6trouile"]},{"name":"RUN_COMMAND","args":["say Hikusame CITROUILLLLEEE !!!!!!!!!!!"]},{"name":"RUN_COMMAND","args":["gamemode creative Hikusame"]}]
+29/10/2018 06:34:05 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 37018435 : [{"name":"RUN_COMMAND","response":true},{"name":"RUN_COMMAND","response":true},{"name":"RUN_COMMAND","response":true},{"name":"RUN_COMMAND","response":true}]
+29/10/2018 06:34:05 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:34:10 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 685585099 : []
+29/10/2018 06:34:10 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 685585099 : []
+29/10/2018 06:34:10 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:34:10 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 1605647762 : [{"name":"IS_CONNECTED","args":["Hikusame"]}]
+29/10/2018 06:34:10 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 1605647762 : [{"name":"IS_CONNECTED","response":true}]
+29/10/2018 06:34:10 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:34:10 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 1423602965 : [{"name":"RUN_COMMAND","args":["give Hikusame 86 150 "]},{"name":"RUN_COMMAND","args":["broadcast  Hikusame buy 6trouile"]},{"name":"RUN_COMMAND","args":["say Hikusame CITROUILLLLEEE !!!!!!!!!!!"]},{"name":"RUN_COMMAND","args":["gamemode creative Hikusame"]}]
+29/10/2018 06:34:10 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 1423602965 : [{"name":"RUN_COMMAND","response":true},{"name":"RUN_COMMAND","response":true},{"name":"RUN_COMMAND","response":true},{"name":"RUN_COMMAND","response":true}]
+29/10/2018 06:34:10 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 06:35:59 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 514308794 : [{"name":"GET_PLAYER_COUNT","args":[]},{"name":"GET_MAX_PLAYERS","args":[]}]
+29/10/2018 06:35:59 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 514308794 : [{"name":"GET_PLAYER_COUNT","response":2},{"name":"GET_MAX_PLAYERS","response":20}]
+29/10/2018 06:35:59 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 07:06:21 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.onDisable] - INFO - Shutting down ...
+29/10/2018 07:09:03 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.onEnable] - INFO - Loading ...
+29/10/2018 07:09:03 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.onEnable] - INFO - Registering route ...
+29/10/2018 07:09:03 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.onEnable] - INFO - Injecting http server ...
+29/10/2018 07:09:03 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.onEnable] - INFO - Registering methods ...
+29/10/2018 07:09:03 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.onEnable] - INFO - Starting CommandScheduler ...
+29/10/2018 07:09:03 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.onEnable] - INFO - Ready !
+29/10/2018 07:11:45 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 1556566490 : [{"name":"GET_PLAYER_COUNT","args":[]},{"name":"GET_MAX_PLAYERS","args":[]}]
+29/10/2018 07:11:45 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 1556566490 : [{"name":"GET_PLAYER_COUNT","response":2},{"name":"GET_MAX_PLAYERS","response":20}]
+29/10/2018 07:11:45 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 07:20:30 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 1236970330 : [{"name":"GET_PLAYER_COUNT","args":[]},{"name":"GET_MAX_PLAYERS","args":[]}]
+29/10/2018 07:20:30 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 1236970330 : [{"name":"GET_PLAYER_COUNT","response":1},{"name":"GET_MAX_PLAYERS","response":20}]
+29/10/2018 07:20:30 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 07:38:48 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 521933595 : [{"name":"GET_PLAYER_COUNT","args":[]},{"name":"GET_MAX_PLAYERS","args":[]}]
+29/10/2018 07:38:48 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 521933595 : [{"name":"GET_PLAYER_COUNT","response":2},{"name":"GET_MAX_PLAYERS","response":20}]
+29/10/2018 07:38:48 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 07:38:55 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 1933281878 : []
+29/10/2018 07:38:55 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 1933281878 : []
+29/10/2018 07:38:55 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 07:38:55 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 1548795210 : [{"name":"IS_CONNECTED","args":["PurpleHaze"]}]
+29/10/2018 07:38:55 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 1548795210 : [{"name":"IS_CONNECTED","response":true}]
+29/10/2018 07:38:55 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 07:38:56 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 165281262 : [{"name":"RUN_COMMAND","args":["give PurpleHaze 86 150 "]},{"name":"RUN_COMMAND","args":["broadcast  PurpleHaze buy 6trouile"]},{"name":"RUN_COMMAND","args":["say PurpleHaze CITROUILLLLEEE !!!!!!!!!!!"]},{"name":"RUN_COMMAND","args":["gamemode creative PurpleHaze"]}]
+29/10/2018 07:38:56 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 165281262 : [{"name":"RUN_COMMAND","response":true},{"name":"RUN_COMMAND","response":true},{"name":"RUN_COMMAND","response":true},{"name":"RUN_COMMAND","response":true}]
+29/10/2018 07:38:56 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 07:39:11 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 505706838 : []
+29/10/2018 07:39:11 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 505706838 : []
+29/10/2018 07:39:11 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 07:39:11 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 185161831 : [{"name":"IS_CONNECTED","args":["PurpleHaze"]}]
+29/10/2018 07:39:11 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 185161831 : [{"name":"IS_CONNECTED","response":true}]
+29/10/2018 07:39:11 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 07:41:27 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 1582363734 : [{"name":"GET_PLAYER_COUNT","args":[]},{"name":"GET_MAX_PLAYERS","args":[]}]
+29/10/2018 07:41:27 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 1582363734 : [{"name":"GET_PLAYER_COUNT","response":2},{"name":"GET_MAX_PLAYERS","response":20}]
+29/10/2018 07:41:27 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 07:41:48 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 255092850 : []
+29/10/2018 07:41:48 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 255092850 : []
+29/10/2018 07:41:48 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 07:41:48 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 1879043761 : [{"name":"GET_PLAYER_COUNT","args":[]},{"name":"GET_MAX_PLAYERS","args":[]}]
+29/10/2018 07:41:48 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 1879043761 : [{"name":"GET_PLAYER_COUNT","response":2},{"name":"GET_MAX_PLAYERS","response":20}]
+29/10/2018 07:41:48 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 07:42:27 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 706246303 : [{"name":"GET_PLAYER_COUNT","args":[]},{"name":"GET_MAX_PLAYERS","args":[]}]
+29/10/2018 07:42:27 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 706246303 : [{"name":"GET_PLAYER_COUNT","response":2},{"name":"GET_MAX_PLAYERS","response":20}]
+29/10/2018 07:42:27 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 07:42:32 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 329475839 : []
+29/10/2018 07:42:32 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 329475839 : []
+29/10/2018 07:42:32 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 07:42:32 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 680423684 : [{"name":"IS_CONNECTED","args":["PurpleHaze"]}]
+29/10/2018 07:42:32 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 680423684 : [{"name":"IS_CONNECTED","response":true}]
+29/10/2018 07:42:32 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 07:42:32 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 967501259 : [{"name":"RUN_COMMAND","args":["give PurpleHaze 1 1"]}]
+29/10/2018 07:42:32 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 967501259 : [{"name":"RUN_COMMAND","response":true}]
+29/10/2018 07:42:32 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 07:44:39 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 1718614360 : []
+29/10/2018 07:44:39 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 1718614360 : []
+29/10/2018 07:44:39 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 07:44:39 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 1918918349 : [{"name":"IS_CONNECTED","args":["PurpleHaze"]}]
+29/10/2018 07:44:39 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 1918918349 : [{"name":"IS_CONNECTED","response":true}]
+29/10/2018 07:44:39 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 07:44:39 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 121835088 : [{"name":"RUN_COMMAND","args":["give PurpleHaze 86 150 "]},{"name":"RUN_COMMAND","args":["broadcast  PurpleHaze buy 6trouile"]},{"name":"RUN_COMMAND","args":["say PurpleHaze CITROUILLLLEEE !!!!!!!!!!!"]},{"name":"RUN_COMMAND","args":["gamemode creative PurpleHaze"]}]
+29/10/2018 07:44:39 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 121835088 : [{"name":"RUN_COMMAND","response":true},{"name":"RUN_COMMAND","response":true},{"name":"RUN_COMMAND","response":true},{"name":"RUN_COMMAND","response":true}]
+29/10/2018 07:44:39 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 07:47:05 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 1427414243 : []
+29/10/2018 07:47:05 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 1427414243 : []
+29/10/2018 07:47:05 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 07:47:05 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 576394621 : [{"name":"IS_CONNECTED","args":["PurpleHaze"]}]
+29/10/2018 07:47:05 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 576394621 : [{"name":"IS_CONNECTED","response":true}]
+29/10/2018 07:47:05 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+29/10/2018 07:47:05 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - request 1590995247 : [{"name":"RUN_COMMAND","args":["give PurpleHaze 86 150 "]},{"name":"RUN_COMMAND","args":["broadcast  PurpleHaze buy 6trouile"]},{"name":"RUN_COMMAND","args":["say PurpleHaze CITROUILLLLEEE !!!!!!!!!!!"]},{"name":"RUN_COMMAND","args":["gamemode creative PurpleHaze"]}]
+29/10/2018 07:47:05 - [fr.vmarchaud.mineweb.common.RequestHandler.handle] - FINE - response 1590995247 : [{"name":"RUN_COMMAND","response":true},{"name":"RUN_COMMAND","response":true},{"name":"RUN_COMMAND","response":true},{"name":"RUN_COMMAND","response":true}]
+29/10/2018 07:47:05 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.lambda$registerRoutes$0] - FINE - [HTTP Request] 200 POST on /ask
+30/10/2018 09:23:26 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.onEnable] - INFO - Loading ...
+30/10/2018 09:23:26 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.onEnable] - INFO - Registering route ...
+30/10/2018 09:23:26 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.onEnable] - INFO - Injecting http server ...
+30/10/2018 09:23:26 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.onEnable] - INFO - Registering methods ...
+30/10/2018 09:23:26 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.onEnable] - INFO - Starting CommandScheduler ...
+30/10/2018 09:23:26 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.onEnable] - INFO - Ready !
+30/10/2018 09:38:31 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.onDisable] - INFO - Shutting down ...
+30/10/2018 01:49:51 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.onEnable] - INFO - Loading ...
+30/10/2018 01:49:51 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.onEnable] - INFO - Registering route ...
+30/10/2018 01:49:51 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.onEnable] - INFO - Injecting http server ...
+30/10/2018 01:49:51 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.onEnable] - INFO - Registering methods ...
+30/10/2018 01:49:51 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.onEnable] - INFO - Starting CommandScheduler ...
+30/10/2018 01:49:51 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.onEnable] - INFO - Ready !
+30/10/2018 01:50:02 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.onDisable] - INFO - Shutting down ...
+30/10/2018 02:41:19 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.onEnable] - INFO - Loading ...
+30/10/2018 02:41:19 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.onEnable] - INFO - Registering route ...
+30/10/2018 02:41:19 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.onEnable] - INFO - Injecting http server ...
+30/10/2018 02:41:19 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.onEnable] - INFO - Registering methods ...
+30/10/2018 02:41:19 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.onEnable] - INFO - Starting CommandScheduler ...
+30/10/2018 02:41:19 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.onEnable] - INFO - Ready !
+30/10/2018 02:48:26 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.onEnable] - INFO - Loading ...
+30/10/2018 02:48:26 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.onEnable] - INFO - Registering route ...
+30/10/2018 02:48:26 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.onEnable] - INFO - Injecting http server ...
+30/10/2018 02:48:26 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.onEnable] - INFO - Registering methods ...
+30/10/2018 02:48:26 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.onEnable] - INFO - Starting CommandScheduler ...
+30/10/2018 02:48:26 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.onEnable] - INFO - Ready !
+30/10/2018 02:49:07 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.onDisable] - INFO - Shutting down ...
+30/10/2018 02:49:30 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.onEnable] - INFO - Loading ...
+30/10/2018 02:49:30 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.onEnable] - INFO - Registering route ...
+30/10/2018 02:49:30 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.onEnable] - INFO - Injecting http server ...
+30/10/2018 02:49:30 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.onEnable] - INFO - Registering methods ...
+30/10/2018 02:49:30 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.onEnable] - INFO - Starting CommandScheduler ...
+30/10/2018 02:49:30 - [fr.vmarchaud.mineweb.bukkit.BukkitCore.onEnable] - INFO - Ready !

@@ -1,0 +1,21 @@
+lastAccountName: admin
+timestamps:
+  login: 1540840147349
+  lastteleport: 1540840188742
+  logout: 1540846220458
+ipAddress: 192.168.1.25
+lastlocation:
+  world: world
+  x: 0.03152082723506533
+  y: 66.0
+  z: 163.59291952393224
+  yaw: 69.89929
+  pitch: 18.900007
+afk: false
+logoutlocation:
+  world: world
+  x: -11.19278753175166
+  y: 102.0326008341619
+  z: 147.3662858693926
+  yaw: 179.09927
+  pitch: 30.29998
